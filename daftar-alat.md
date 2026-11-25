@@ -1,0 +1,3 @@
+- Komputer
+- Korek api
+- Timbangan
